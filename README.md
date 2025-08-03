@@ -144,10 +144,3 @@ $ npm run build
         |-- product.js
         |-- stripe.js
         `-- user.js
-```
-
-
-  ![large screens](ss/large/signup.png)
-  <br>
-  ![large screens](ss/large/login.png)
-
